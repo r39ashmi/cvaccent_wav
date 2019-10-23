@@ -14,11 +14,9 @@ cv-valid-test/sample-000037.mp3,canada
 cv-valid-test/sample-000038.mp3,us
 cv-valid-test/sample-000041.mp3,us
 cv-valid-test/sample-000042.mp3,england
-cv-valid-test/sample-000043.mp3,ireland
 cv-valid-test/sample-000051.mp3,us
 cv-valid-test/sample-000052.mp3,canada
 cv-valid-test/sample-000055.mp3,us
-cv-valid-test/sample-000056.mp3,philippines
 cv-valid-test/sample-000058.mp3,us
 cv-valid-test/sample-000060.mp3,us
 cv-valid-test/sample-000061.mp3,indian
@@ -69,7 +67,6 @@ cv-valid-test/sample-000214.mp3,us
 cv-valid-test/sample-000215.mp3,indian
 cv-valid-test/sample-000217.mp3,england
 cv-valid-test/sample-000221.mp3,canada
-cv-valid-test/sample-000222.mp3,philippines
 cv-valid-test/sample-000223.mp3,us
 cv-valid-test/sample-000230.mp3,us
 cv-valid-test/sample-000241.mp3,england
@@ -80,7 +77,6 @@ cv-valid-test/sample-000249.mp3,england
 cv-valid-test/sample-000257.mp3,england
 cv-valid-test/sample-000270.mp3,us
 cv-valid-test/sample-000273.mp3,canada
-cv-valid-test/sample-000278.mp3,ireland
 cv-valid-test/sample-000279.mp3,indian
 cv-valid-test/sample-000281.mp3,us
 cv-valid-test/sample-000285.mp3,us
@@ -108,7 +104,6 @@ cv-valid-test/sample-000356.mp3,england
 cv-valid-test/sample-000358.mp3,canada
 cv-valid-test/sample-000364.mp3,us
 cv-valid-test/sample-000365.mp3,australia
-cv-valid-test/sample-000367.mp3,hongkong
 cv-valid-test/sample-000368.mp3,us
 cv-valid-test/sample-000370.mp3,us
 cv-valid-test/sample-000372.mp3,us
@@ -180,7 +175,6 @@ cv-valid-test/sample-000602.mp3,us
 cv-valid-test/sample-000605.mp3,us
 cv-valid-test/sample-000609.mp3,us
 cv-valid-test/sample-000611.mp3,us
-cv-valid-test/sample-000613.mp3,wales
 cv-valid-test/sample-000614.mp3,us
 cv-valid-test/sample-000616.mp3,us
 cv-valid-test/sample-000617.mp3,england
@@ -189,8 +183,6 @@ cv-valid-test/sample-000629.mp3,england
 cv-valid-test/sample-000631.mp3,australia
 cv-valid-test/sample-000632.mp3,england
 cv-valid-test/sample-000633.mp3,us
-cv-valid-test/sample-000634.mp3,hongkong
-cv-valid-test/sample-000638.mp3,southatlandtic
 cv-valid-test/sample-000641.mp3,us
 cv-valid-test/sample-000643.mp3,england
 cv-valid-test/sample-000646.mp3,canada
@@ -209,7 +201,6 @@ cv-valid-test/sample-000698.mp3,us
 cv-valid-test/sample-000702.mp3,england
 cv-valid-test/sample-000703.mp3,african
 cv-valid-test/sample-000705.mp3,canada
-cv-valid-test/sample-000707.mp3,ireland
 cv-valid-test/sample-000708.mp3,canada
 cv-valid-test/sample-000709.mp3,england
 cv-valid-test/sample-000711.mp3,us
@@ -255,7 +246,6 @@ cv-valid-test/sample-000857.mp3,england
 cv-valid-test/sample-000859.mp3,us
 cv-valid-test/sample-000862.mp3,us
 cv-valid-test/sample-000865.mp3,england
-cv-valid-test/sample-000866.mp3,ireland
 cv-valid-test/sample-000871.mp3,australia
 cv-valid-test/sample-000874.mp3,us
 cv-valid-test/sample-000880.mp3,us
@@ -273,7 +263,6 @@ cv-valid-test/sample-000911.mp3,england
 cv-valid-test/sample-000912.mp3,us
 cv-valid-test/sample-000913.mp3,us
 cv-valid-test/sample-000914.mp3,us
-cv-valid-test/sample-000924.mp3,ireland
 cv-valid-test/sample-000928.mp3,scotland
 cv-valid-test/sample-000931.mp3,us
 cv-valid-test/sample-000940.mp3,us
@@ -295,14 +284,11 @@ cv-valid-test/sample-000977.mp3,england
 cv-valid-test/sample-000978.mp3,england
 cv-valid-test/sample-000981.mp3,us
 cv-valid-test/sample-000982.mp3,indian
-cv-valid-test/sample-000984.mp3,philippines
-cv-valid-test/sample-000990.mp3,southatlandtic
 cv-valid-test/sample-000995.mp3,england
 cv-valid-test/sample-000997.mp3,us
 cv-valid-test/sample-001000.mp3,canada
 cv-valid-test/sample-001001.mp3,us
 cv-valid-test/sample-001002.mp3,us
-cv-valid-test/sample-001007.mp3,malaysia
 cv-valid-test/sample-001008.mp3,indian
 cv-valid-test/sample-001014.mp3,australia
 cv-valid-test/sample-001018.mp3,england
@@ -366,7 +352,6 @@ cv-valid-test/sample-001207.mp3,indian
 cv-valid-test/sample-001213.mp3,us
 cv-valid-test/sample-001215.mp3,england
 cv-valid-test/sample-001224.mp3,england
-cv-valid-test/sample-001227.mp3,ireland
 cv-valid-test/sample-001228.mp3,us
 cv-valid-test/sample-001229.mp3,us
 cv-valid-test/sample-001234.mp3,us
@@ -378,7 +363,6 @@ cv-valid-test/sample-001245.mp3,us
 cv-valid-test/sample-001249.mp3,us
 cv-valid-test/sample-001261.mp3,us
 cv-valid-test/sample-001266.mp3,us
-cv-valid-test/sample-001267.mp3,wales
 cv-valid-test/sample-001270.mp3,canada
 cv-valid-test/sample-001273.mp3,us
 cv-valid-test/sample-001276.mp3,us
@@ -458,7 +442,6 @@ cv-valid-test/sample-001518.mp3,england
 cv-valid-test/sample-001522.mp3,newzealand
 cv-valid-test/sample-001525.mp3,england
 cv-valid-test/sample-001526.mp3,us
-cv-valid-test/sample-001527.mp3,ireland
 cv-valid-test/sample-001531.mp3,england
 cv-valid-test/sample-001532.mp3,us
 cv-valid-test/sample-001534.mp3,england
@@ -523,7 +506,6 @@ cv-valid-test/sample-001744.mp3,australia
 cv-valid-test/sample-001749.mp3,indian
 cv-valid-test/sample-001750.mp3,us
 cv-valid-test/sample-001760.mp3,canada
-cv-valid-test/sample-001761.mp3,philippines
 cv-valid-test/sample-001762.mp3,us
 cv-valid-test/sample-001763.mp3,england
 cv-valid-test/sample-001765.mp3,canada
@@ -538,7 +520,6 @@ cv-valid-test/sample-001792.mp3,australia
 cv-valid-test/sample-001793.mp3,indian
 cv-valid-test/sample-001796.mp3,us
 cv-valid-test/sample-001799.mp3,us
-cv-valid-test/sample-001805.mp3,wales
 cv-valid-test/sample-001810.mp3,england
 cv-valid-test/sample-001815.mp3,england
 cv-valid-test/sample-001817.mp3,canada
@@ -551,16 +532,13 @@ cv-valid-test/sample-001831.mp3,us
 cv-valid-test/sample-001832.mp3,us
 cv-valid-test/sample-001836.mp3,us
 cv-valid-test/sample-001839.mp3,us
-cv-valid-test/sample-001840.mp3,ireland
 cv-valid-test/sample-001843.mp3,us
 cv-valid-test/sample-001845.mp3,canada
 cv-valid-test/sample-001846.mp3,us
 cv-valid-test/sample-001848.mp3,indian
 cv-valid-test/sample-001850.mp3,indian
 cv-valid-test/sample-001851.mp3,us
-cv-valid-test/sample-001852.mp3,hongkong
 cv-valid-test/sample-001857.mp3,us
-cv-valid-test/sample-001860.mp3,singapore
 cv-valid-test/sample-001861.mp3,us
 cv-valid-test/sample-001862.mp3,us
 cv-valid-test/sample-001863.mp3,indian
@@ -626,12 +604,9 @@ cv-valid-test/sample-002049.mp3,canada
 cv-valid-test/sample-002053.mp3,us
 cv-valid-test/sample-002054.mp3,canada
 cv-valid-test/sample-002058.mp3,us
-cv-valid-test/sample-002065.mp3,wales
 cv-valid-test/sample-002076.mp3,australia
-cv-valid-test/sample-002077.mp3,ireland
 cv-valid-test/sample-002078.mp3,england
 cv-valid-test/sample-002080.mp3,us
-cv-valid-test/sample-002083.mp3,ireland
 cv-valid-test/sample-002084.mp3,us
 cv-valid-test/sample-002085.mp3,us
 cv-valid-test/sample-002087.mp3,us
@@ -687,12 +662,10 @@ cv-valid-test/sample-002235.mp3,canada
 cv-valid-test/sample-002237.mp3,scotland
 cv-valid-test/sample-002238.mp3,us
 cv-valid-test/sample-002245.mp3,indian
-cv-valid-test/sample-002247.mp3,bermuda
 cv-valid-test/sample-002249.mp3,indian
 cv-valid-test/sample-002251.mp3,canada
 cv-valid-test/sample-002254.mp3,us
 cv-valid-test/sample-002258.mp3,us
-cv-valid-test/sample-002266.mp3,malaysia
 cv-valid-test/sample-002271.mp3,us
 cv-valid-test/sample-002273.mp3,us
 cv-valid-test/sample-002275.mp3,england
@@ -712,10 +685,8 @@ cv-valid-test/sample-002308.mp3,england
 cv-valid-test/sample-002310.mp3,us
 cv-valid-test/sample-002317.mp3,us
 cv-valid-test/sample-002319.mp3,australia
-cv-valid-test/sample-002324.mp3,ireland
 cv-valid-test/sample-002326.mp3,us
 cv-valid-test/sample-002328.mp3,african
-cv-valid-test/sample-002330.mp3,philippines
 cv-valid-test/sample-002332.mp3,african
 cv-valid-test/sample-002339.mp3,indian
 cv-valid-test/sample-002344.mp3,us
@@ -735,7 +706,6 @@ cv-valid-test/sample-002391.mp3,australia
 cv-valid-test/sample-002393.mp3,us
 cv-valid-test/sample-002408.mp3,us
 cv-valid-test/sample-002419.mp3,us
-cv-valid-test/sample-002421.mp3,bermuda
 cv-valid-test/sample-002422.mp3,england
 cv-valid-test/sample-002423.mp3,us
 cv-valid-test/sample-002424.mp3,us
@@ -761,14 +731,12 @@ cv-valid-test/sample-002472.mp3,england
 cv-valid-test/sample-002479.mp3,england
 cv-valid-test/sample-002481.mp3,canada
 cv-valid-test/sample-002487.mp3,newzealand
-cv-valid-test/sample-002491.mp3,ireland
 cv-valid-test/sample-002493.mp3,african
 cv-valid-test/sample-002494.mp3,canada
 cv-valid-test/sample-002495.mp3,canada
 cv-valid-test/sample-002498.mp3,england
 cv-valid-test/sample-002499.mp3,us
 cv-valid-test/sample-002503.mp3,us
-cv-valid-test/sample-002506.mp3,hongkong
 cv-valid-test/sample-002507.mp3,england
 cv-valid-test/sample-002515.mp3,us
 cv-valid-test/sample-002519.mp3,england
@@ -810,10 +778,8 @@ cv-valid-test/sample-002624.mp3,australia
 cv-valid-test/sample-002628.mp3,us
 cv-valid-test/sample-002631.mp3,australia
 cv-valid-test/sample-002632.mp3,australia
-cv-valid-test/sample-002633.mp3,ireland
 cv-valid-test/sample-002636.mp3,england
 cv-valid-test/sample-002639.mp3,us
-cv-valid-test/sample-002642.mp3,ireland
 cv-valid-test/sample-002645.mp3,indian
 cv-valid-test/sample-002650.mp3,indian
 cv-valid-test/sample-002652.mp3,england
@@ -866,7 +832,6 @@ cv-valid-test/sample-002840.mp3,england
 cv-valid-test/sample-002846.mp3,us
 cv-valid-test/sample-002848.mp3,us
 cv-valid-test/sample-002849.mp3,us
-cv-valid-test/sample-002850.mp3,ireland
 cv-valid-test/sample-002851.mp3,england
 cv-valid-test/sample-002852.mp3,indian
 cv-valid-test/sample-002853.mp3,canada
@@ -879,7 +844,6 @@ cv-valid-test/sample-002887.mp3,england
 cv-valid-test/sample-002888.mp3,scotland
 cv-valid-test/sample-002889.mp3,england
 cv-valid-test/sample-002890.mp3,canada
-cv-valid-test/sample-002892.mp3,philippines
 cv-valid-test/sample-002896.mp3,us
 cv-valid-test/sample-002897.mp3,us
 cv-valid-test/sample-002899.mp3,us
@@ -915,7 +879,6 @@ cv-valid-test/sample-003009.mp3,scotland
 cv-valid-test/sample-003024.mp3,england
 cv-valid-test/sample-003027.mp3,england
 cv-valid-test/sample-003028.mp3,canada
-cv-valid-test/sample-003029.mp3,ireland
 cv-valid-test/sample-003031.mp3,us
 cv-valid-test/sample-003033.mp3,us
 cv-valid-test/sample-003036.mp3,indian
@@ -950,7 +913,6 @@ cv-valid-test/sample-003121.mp3,us
 cv-valid-test/sample-003122.mp3,us
 cv-valid-test/sample-003123.mp3,canada
 cv-valid-test/sample-003124.mp3,us
-cv-valid-test/sample-003125.mp3,ireland
 cv-valid-test/sample-003132.mp3,england
 cv-valid-test/sample-003133.mp3,us
 cv-valid-test/sample-003136.mp3,us
@@ -1040,7 +1002,6 @@ cv-valid-test/sample-003385.mp3,us
 cv-valid-test/sample-003386.mp3,australia
 cv-valid-test/sample-003389.mp3,england
 cv-valid-test/sample-003393.mp3,us
-cv-valid-test/sample-003396.mp3,ireland
 cv-valid-test/sample-003400.mp3,indian
 cv-valid-test/sample-003404.mp3,australia
 cv-valid-test/sample-003407.mp3,us
@@ -1141,7 +1102,6 @@ cv-valid-test/sample-003725.mp3,us
 cv-valid-test/sample-003727.mp3,us
 cv-valid-test/sample-003731.mp3,us
 cv-valid-test/sample-003735.mp3,australia
-cv-valid-test/sample-003737.mp3,ireland
 cv-valid-test/sample-003739.mp3,england
 cv-valid-test/sample-003741.mp3,us
 cv-valid-test/sample-003742.mp3,us
@@ -1150,12 +1110,10 @@ cv-valid-test/sample-003745.mp3,england
 cv-valid-test/sample-003750.mp3,us
 cv-valid-test/sample-003754.mp3,us
 cv-valid-test/sample-003758.mp3,us
-cv-valid-test/sample-003759.mp3,ireland
 cv-valid-test/sample-003761.mp3,us
 cv-valid-test/sample-003770.mp3,us
 cv-valid-test/sample-003772.mp3,england
 cv-valid-test/sample-003777.mp3,us
-cv-valid-test/sample-003778.mp3,bermuda
 cv-valid-test/sample-003780.mp3,england
 cv-valid-test/sample-003786.mp3,us
 cv-valid-test/sample-003790.mp3,england
@@ -1175,7 +1133,6 @@ cv-valid-test/sample-003846.mp3,indian
 cv-valid-test/sample-003854.mp3,canada
 cv-valid-test/sample-003855.mp3,us
 cv-valid-test/sample-003857.mp3,us
-cv-valid-test/sample-003858.mp3,ireland
 cv-valid-test/sample-003861.mp3,indian
 cv-valid-test/sample-003862.mp3,england
 cv-valid-test/sample-003864.mp3,england
