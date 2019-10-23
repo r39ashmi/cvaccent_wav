@@ -7,5 +7,7 @@ This repository contains data split, evaluation code along with trained models f
 (5) LinearInt (../models/linear.ckpt.tar)
 
 To evaluate follow the below given steps:
+
 cd code
+
 python3 evaluation.py <config-type> 
