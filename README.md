@@ -10,4 +10,4 @@ To evaluate follow the below given steps:
 
 cd code
 
-python3 evaluation.py <config-type> 
+python3 evaluation.py \<config-type\> 
