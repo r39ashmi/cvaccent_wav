@@ -104,7 +104,6 @@ with torch.no_grad():
     from sklearn.metrics import classification_report
     print("========================test=======================")
     print(classification_report(labels_set, predictions,digits=5))
-#torch.save(xvector_model.state_dict(),'cv_atten_analysis_initial_fbank.model')
-#print("saved model")
+
 
 
