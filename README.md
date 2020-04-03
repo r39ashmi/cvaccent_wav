@@ -10,4 +10,4 @@ To evaluate follow the below given steps:
 
 cd code
 
-python3 evaluation.py \<path to configuration\> 
+python3 evaluation.py \<path to configuration: ../models/fixed.ckpt.tar\> 
